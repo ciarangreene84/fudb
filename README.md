@@ -1,6 +1,6 @@
 # FuDB (F.U. DataBase, pronounced 'Fuddbah!')
 
-This repo contains a series of SQL scripts aimed at better understanding and unknown database.
+This repo contains a series of SQL scripts aimed at better understanding an unknown database.
 
 ## Setup
 
